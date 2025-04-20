@@ -1,3 +1,4 @@
 With big regards to our mentor Altair Zhambyl
 -----------
-Youtube link to Alpha version of the Pygame:
+Youtube link to Alpha version of the Pygame: 
+https://youtu.be/EHuNoImVXmg
